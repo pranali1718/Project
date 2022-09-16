@@ -77,7 +77,7 @@ void check_left()
         }
         else
         {
-            cout<<"Stop";
+            cout << "Stop";
         }
     }
 }
